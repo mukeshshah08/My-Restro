@@ -20,8 +20,8 @@ Best way to open and edit the project is to use Netbeans IDE. It allows very eas
 There is no standard authentication has been added yet. Currently, it is hardcoded.
 
 ```
-Username : shahin
-Password : shahin
+Username : mukesh
+Password : mukesh
 ```
 ## Screenshots
 ![login-panel](https://i.ibb.co/7C5ccJf/1-login-panel.png )
